@@ -1,0 +1,14 @@
+ls
+ls -a
+git status
+clear
+git add [file name] (or) git add . #for all files in folder
+git commit -m "commit message here"
+git push origin main
+git init - to create a new repo
+git remote add origin <-link->
+git remote -v (verify)
+git branch
+git branch -M main (To rename the branch)
+git push -u origin main (after the command we can use
+only "git push")
