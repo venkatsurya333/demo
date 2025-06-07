@@ -1,2 +1,4 @@
 # demo
-This is my first repository for a demo perpose
+This is my first repository for a demo purpose
+<br>
+We use html tags and elements in GitHub to edit.
